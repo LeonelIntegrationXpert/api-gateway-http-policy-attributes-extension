@@ -98,9 +98,9 @@ mvn clean deploy -s .maven/settings.xml
 
 ## 👨‍💼 Desenvolvedor Responsável
 
-**Autor:** Leonel Dorneles Porto
-**Email:** [leoneldornelesporto@outlook.com.br](mailto:leoneldornelesporto@outlook.com.br)
-**Organização:** Accenture / Telefônica Vivo
+**Autor:** Leonel Dorneles Porto  
+**Email:** [leoneldornelesporto@outlook.com.br](mailto:leoneldornelesporto@outlook.com.br)  
+**Organização:** Accenture
 
 ---
 
