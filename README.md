@@ -105,7 +105,7 @@ mvn clean deploy -s .maven/settings.xml
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Extens%C3%A3o+reutiliz%C3%A1vel+para+captura+de+atributos+HTTP+em+pol%C3%ADticas+personalizadas!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=1500&lines=Extens%C3%A3o+reutiliz%C3%A1vel+para+captura+de+atributos+HTTP+em+pol%C3%ADticas+personalizadas!"/>
 </p>
 
 ---
